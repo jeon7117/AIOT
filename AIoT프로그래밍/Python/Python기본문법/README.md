@@ -11,3 +11,6 @@ pi = 3.14       # 실수
 name = "Alice"  # 문자열
 is_ok = True    # 불린 (True / False)
 
+## 2. 출력 및 자료형 확인
+print(name)
+print(type(pi))

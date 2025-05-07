@@ -11,6 +11,9 @@ pi = 3.14       # 실수
 name = "Alice"  # 문자열
 is_ok = True    # 불린 (True / False)
 
-## 2. 출력 및 자료형 확인
+---
+
+## 2. 변수와 자료형
+```python
 print(name)
 print(type(pi))
